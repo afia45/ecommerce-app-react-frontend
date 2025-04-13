@@ -1,7 +1,7 @@
 # Frontend (React + Vite) of the E-Commerce App
 
 This project contains only the frontend of the E-commerce App for learning purposes.
-Shoutout to @GreatStackDev !
+Shoutout to @ [GreatStackDev](https://github.com/GreatStackDev) !
 
 ## Features
 
