@@ -3,10 +3,10 @@
 This project contains only the frontend of the E-commerce App for learning purposes.
 Shoutout to @ [GreatStackDev](https://github.com/GreatStackDev) !
 
-Live Link of the Complete Project (MongoDB, Express.js, React.js, Node)
+## Live Link - (Full Project with Backend)
 
 <p align="center">
-<img src="img/icon.png" alt="Logo" width="50" height="50"><br>
+<img src="img/icon.png" alt="Logo" width="80" height="80"><br>
 <a href="https://velora-store.vercel.app" target="_blank">Velora</a>
 </p>
 
