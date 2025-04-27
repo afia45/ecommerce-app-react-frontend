@@ -6,7 +6,7 @@ Shoutout to @ [GreatStackDev](https://github.com/GreatStackDev) !
 Live Link of the Complete Project (MongoDB, Express.js, React.js, Node)
 
 <p align="center">
-<img src="img/icon.png" alt="Logo" width="100" height="100">
+<img src="img/icon.png" alt="Logo" width="50" height="50"><br>
 <a href="https://velora-store.vercel.app" target="_blank">Velora</a>
 </p>
 
