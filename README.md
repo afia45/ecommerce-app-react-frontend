@@ -41,3 +41,7 @@ cd ecommerce-app-react-frontend
 cd frontend
 npm run dev
 ```
+
+### Self-Made Documentation
+
+![Documentation](https://docs.google.com/document/d/1VXkHCThM-4Yuy5kyuT-DTBFJjF6XJtdrE8n7pWI5ZSk/edit?usp=sharing)
